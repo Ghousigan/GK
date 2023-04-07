@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ghousigan
+ *
+ */
+module Mocktest {
+}
